@@ -48,7 +48,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <b>Authors:</b>
 <i>Eghonghon-aye Eigbe, Christoph Schmidl</i> 
 
-An integration of the deep reinforcement learning agent of <a href="https://github.com/Optimization-and-Machine-Learning-Lab/Job-Shop/tree/main\_nips" target="_blank">Iklassov et al.</a>  into a decision diagram solver for job shop scheduling.
+An integration of the deep reinforcement learning agent of <a href="https://github.com/Optimization-and-Machine-Learning-Lab/Job-Shop/tree/main_nips" target="_blank">Iklassov et al.</a>  into a decision diagram solver for job shop scheduling.
 
 </div>
 </div>
