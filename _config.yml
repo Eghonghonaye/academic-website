@@ -2,8 +2,8 @@
 title: 
 email: e.eigbe@tudelft.nl
 description: Academic webpage of Eghonghon-aye Eigbe
-baseurl: ""
-url: ""
+baseurl: "/academic-website"
+url: "https://eghonghonaye.github.io/"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
