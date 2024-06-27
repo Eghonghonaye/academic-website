@@ -9,6 +9,18 @@ permalink: /
 I am currently a PhD candidate at the Software Technology Department, Delft University of Technology. My research interests include robust scheduling, maintenance
 planning, decison diagrams for optimisation and the intersection of machine learning and optimisation.
 
+#### Thesis Abstract
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h6><b>Scheduling Solutions For Flexible Manufacturing Systems</b></h6>
+<a href="/academic-website/papers/Thesis_Abstract.pdf" target="_blank"><button class="btn btn-info btn-sm">Thesis Abstract</button></a>
+
+In my PhD research, I aim to develop scheduling algorithms that are both widely applicable and able to provide high quality solutions. My work has taken two main directions namely (i) expanding the capabilities of heuristic algorithms, and (ii) developing a general decision diagram solver for manufacturing systems that can be modelled as shops. These form two main parts of the thesis and its contributions are expanded in the linked abstract.
+
+</div>
+</div>
+</div>
 
 #### Publications
 <!-- ---
